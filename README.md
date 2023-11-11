@@ -7,4 +7,4 @@ All data related to RStudio Analysis presented on my YouTube page: https://www.y
 4) Bags Data --> Comparing Variances of Two Populations (YouTube video: https://youtu.be/vnsux0zkNxU)
 5) Airline Ticket Data --> Test of Independence (YouTube video: https://youtu.be/b3JcGh6B_hU)
 6) Armand's Data --> Simple Linear Regression (YouTube video: https://youtu.be/6d8KiPfFfbQ)
-7) Theater Revenue Data --> Multiple Linear Regression (YouTube video: coming soon 😊)
+7) Theater Revenue Data --> Multiple Linear Regression (YouTube video: https://youtu.be/0jHBdpOkN-I)
