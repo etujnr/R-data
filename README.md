@@ -10,4 +10,4 @@ All data related to RStudio Analysis presented on my YouTube page: https://www.y
 7) Theater Revenue Data --> Multiple Linear Regression (YouTube video: https://youtu.be/0jHBdpOkN-I)
 8) Skechers Sales Data --> Basic Time Series Forecasting (YouTube video: https://youtu.be/AMNYPzeFCTo)
 9) Lakeland College Data --> Logistic Regression (YouTube video: https://youtu.be/ipFDDce1czs)
-10) Manufacturing Supplier Components Data --> Three or More Population Proportion (YouTube video: TBD)
+10) Manufacturing Supplier Components Data --> Three or More Population Proportion (YouTube video: https://youtu.be/jo_lb78aaYs) 
